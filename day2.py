@@ -65,3 +65,4 @@ def divison(val1,val2):
 #     total =(a+b+c+d+e+f)/6
 #     print(total)
 # averageofsixnumbers(a,b,c,d,e,f)
+# this is testimg
